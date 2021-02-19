@@ -3,7 +3,7 @@
     <div class="row"> 
         <div class="col-12">
             <a href="<?= base_url("index.php/MairieSJ/liens");?>">
-                <img src="<?php echo base_url("assets/images/MairieSJ/mairie1");?>"   class="w-100" alt="Image responsive" title="Image promotion">
+                <img src="<?php echo base_url("assets/images/MairieSJ/mairie1.jpg");?>"   class="w-100" alt="Image responsive" title="Image promotion">
             </a>
         </div>
     </div>

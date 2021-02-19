@@ -10,12 +10,12 @@
     <div id="liens-vert" class="row">
         <div  class="col-5">
             <a class="d-flex justify-content-center mt-2" href="http://saintjustenchaussee.groupehlc.com/" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/logomairie");?>" height="30%" width="30%" alt="Image responsive" title="Image promotion">
+                <img src="<?php echo base_url("assets/images/MairieSJ/logomairie.png");?>" height="30%" width="30%" alt="Image responsive" title="Image promotion">
             </a>
         </div>
         <div class="col-7">
             <a class="d-flex justify-content-center" href="https://www.gouvernement.fr/info-coronavirus" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/covid19");?>" alt="Image responsive" title="Image promotion">
+                <img src="<?php echo base_url("assets/images/MairieSJ/covid19.jpg");?>" alt="Image responsive" title="Image promotion">
             </a>
         </div>
     </div>
@@ -33,16 +33,16 @@
         <div class="col-12 d-flex justify-content-center">
         
             <a id="ref" href="https://www.caf.fr/" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/caf");?>" alt="Image responsive" title="Image promotion">
+                <img src="<?php echo base_url("assets/images/MairieSJ/caf.png");?>" alt="Image responsive" title="Image promotion">
             </a>
             <a id="ref" href="https://www.pole-emploi.fr/accueil/" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/poleemploi");?>" alt="Image responsive" title="Image promotion">
+                <img src="<?php echo base_url("assets/images/MairieSJ/poleemploi.png");?>" alt="Image responsive" title="Image promotion">
             </a>
             <a id="ref" href="http://www.cc-plateaupicard.fr/" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/plateaupicard");?>" alt="Image responsive" title="Image promotion">
+                <img src="<?php echo base_url("assets/images/MairieSJ/plateaupicard.png");?>" alt="Image responsive" title="Image promotion">
             </a>
             <a id="ref" href="https://www.service-public.fr/" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/servicepublic");?>" alt="Image responsive" title="Image promotion">
+                <img src="<?php echo base_url("assets/images/MairieSJ/servicepublic.png");?>" alt="Image responsive" title="Image promotion">
             </a>
         </div>
 
