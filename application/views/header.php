@@ -16,8 +16,6 @@
 <body>
 <div class="container border"> <!--container global de la page-->
 
-<br>
-
 <?php if (isset($_SESSION['log'])){?>
    <div class="row">
         <div class="col-12 d-flex justify-content-center bg-light">
@@ -49,7 +47,6 @@
 <?php }
 ?>
 
-<br>
 
 <style>
 /*Navbar*/
