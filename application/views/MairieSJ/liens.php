@@ -20,24 +20,12 @@
 
            
             <a class="d-flex justify-content-center mt-2" href="http://saintjustenchaussee.groupehlc.com/" target="_blank">
-<<<<<<< Updated upstream
-                <img src="<?php echo base_url("assets/images/MairieSJ/logomairie.png");?>" class="w-50" alt="Image responsive" title="Image site St Just">
-            </a>
-        
-            <a class="ml-5 d-flex justify-content-center" href="https://www.gouvernement.fr/info-coronavirus" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/covid19.jpg");?>" alt="Image responsive" class="w-75" title="Image Covid-19">
-            </a>
-
-            <a class="ml-5 d-flex justify-content-center" href="https://www.facebook.com/Mairiesaintjustenchaussee/" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/facebook.png");?>" alt="Image responsive" class="w-75" title="Image Facebook">
-=======
                 <img src="<?php echo base_url("assets/images/MairieSJ/logomairie.png");?>" height="30%" width="30%" alt="Image responsive" title="Image promotion">
             </a>
         </div>
         <div class="col-7">
             <a class="d-flex justify-content-center" href="https://www.gouvernement.fr/info-coronavirus" target="_blank">
                 <img src="<?php echo base_url("assets/images/MairieSJ/covid19.jpg");?>" alt="Image responsive" title="Image promotion">
->>>>>>> Stashed changes
             </a>
 
             <a class="ml-5 d-flex justify-content-center" href="https://twitter.com/hashtag/saintjustenchaussee" target="_blank">
