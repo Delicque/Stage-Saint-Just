@@ -17,21 +17,25 @@
     <div id="liens-vert" class="row">
 
         <div  class="col-12 d-flex justify-content-around">
-            <a class="d-flex justify-content-center mt-2" href="http://saintjustenchaussee.groupehlc.com/" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/logomairie.png");?>" height="30%" width="30%" alt="Image responsive" title="Image promotion">
-            </a>
-        </div>
 
-        <div class="col-7">
-            <a class="d-flex justify-content-center" href="https://www.gouvernement.fr/info-coronavirus" target="_blank">
-                <img src="<?php echo base_url("assets/images/MairieSJ/covid19.jpg");?>" alt="Image responsive" title="Image promotion">
+           
+            <a class="d-flex justify-content-center mt-2" href="http://saintjustenchaussee.groupehlc.com/" target="_blank">
+                <img src="<?php echo base_url("assets/images/MairieSJ/logomairie.png");?>" class="w-50" alt="Image responsive" title="Image site St Just">
+            </a>
+        
+            <a class="ml-5 d-flex justify-content-center" href="https://www.gouvernement.fr/info-coronavirus" target="_blank">
+                <img src="<?php echo base_url("assets/images/MairieSJ/covid19.jpg");?>" alt="Image responsive" class="w-75" title="Image Covid-19">
+            </a>
+
+            <a class="ml-5 d-flex justify-content-center" href="https://www.facebook.com/Mairiesaintjustenchaussee/" target="_blank">
+                <img src="<?php echo base_url("assets/images/MairieSJ/facebook.png");?>" alt="Image responsive" class="w-75" title="Image Facebook">
             </a>
 
             <a class="ml-5 d-flex justify-content-center" href="https://twitter.com/hashtag/saintjustenchaussee" target="_blank">
                 <img src="<?php echo base_url("assets/images/MairieSJ/twitter.png");?>" alt="Image responsive" class="w-75" title="Image Twitter">
             </a>
-        </div>
 
+        </div>
     </div>
 
     <div class="row" id="liens-vert">
