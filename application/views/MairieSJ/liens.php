@@ -3,7 +3,7 @@
     <div id="intro" class="row"> 
         <div class="col-12">
             <br>
-            <h2 class="d-flex justify-content-center"><FONT COLOR="black">Bienvenue à la Mairie de votre ville Saint Just en Chaussée</FONT></h2>
+            <h2 class="d-flex justify-content-center"><FONT COLOR="black">"St Just en Chaussée"</FONT></h2>
             <br>
         </div>
     </div>
